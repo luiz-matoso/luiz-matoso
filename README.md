@@ -1,68 +1,48 @@
-<img width=100% bottom=50px src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/e23da4da-90c5-4332-af39-6f6d1754e982"/>
+<h1 align="center">Hi 👋, I'm Luiz Matoso</h1>
+<h3 align="center">Computer Science Student | Back-end Developer</h3>
 
+<p align="center">
+  <img width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding animation">
+</p>
 
-<br>
-<br>
+<p align="center">
+  🌱 I’m currently learning <strong>Spring Boot, Angular</strong><br>
+  💬 Ask me about <strong>Java, Spring Boot</strong><br>
+  📫 How to reach me <a href="mailto:luizhmatoso1340@gmail.com">luizhmatoso1340@gmail.com</a>
+</p>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=luiz-matoso&theme=dark-smoky&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/luizmatoso" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizmatoso" height="30" width="40" /></a>
+</p>
 
-</div>
-
-<br>
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/luiz-henrique-matoso/" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/db156acd-bd5c-420c-819e-1f407a62d0cd">
-</a>
-
-</div>
-
-### Main skills:
-<div align="left"> 
-  
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/8f2c31e5-d8a5-4887-a541-35e48fe1e23a">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/0136520c-0f66-4db2-bda3-03f21a55a58e">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/5f12047a-c8a7-42f9-9501-3c9ee8b3b92d">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/9e5cde32-bfcc-48a0-912c-a495856d6674">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/7ec3fdf9-596d-46e1-9d31-82c7ee898899">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/f217893f-f8a2-47b7-a0a4-d6beaecdbdec">
-
-</div>
-
-<br>
-<br> 
-<br>
-<br>
-
-<h2 align="left"> Studying in this moment: </h2>
-
-<div align="left"> 
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/8f2c31e5-d8a5-4887-a541-35e48fe1e23a">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/900bd53e-5115-4c98-a8f4-a33448a6e924">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/82c2ba28-4dec-4541-8839-664d9ff143b5">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/7ec3fdf9-596d-46e1-9d31-82c7ee898899">
-
-<img align="left" height="80" width="80" src="https://github.com/luiz-matoso/luiz-matoso/assets/149846308/f217893f-f8a2-47b7-a0a4-d6beaecdbdec">
-
-
-
-</div>
-
-
-<div align="center">
-  
-<br>
-<br>
-<br>
-<br>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+</p>
