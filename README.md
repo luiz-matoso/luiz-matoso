@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 🌱 I’m currently learning **Vue.js, DevOps, microservices**
+- 🌱 I’m currently learning *React, DevOps, microservices**
 
 
 <h3 align="left">Connect with me:</h3>
