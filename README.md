@@ -1,32 +1,60 @@
-<h1 align="left">Hey 🙋‍♂️</h1>
-<h3 align="left">I'm Luiz Matoso. Thanks for visiting my Github repository.</h3>
+<h1 align="center">Hi there 🙋‍♂️</h1>
 
-- 💬 Ask me about **Java, Spring Boot**
+<hr>
+<h5 align="center">I am Luiz Matoso, a 21-year-old Full Stack Developer. <br> I enjoy working with modern technologies on both frontend and backend. <br> Always learning and coding something new!</h5>
+<hr>
 
-- 👯 I’m looking to collaborate on **projects**
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/luiz-matoso">
+    <img style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api?username=luiz-matoso&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="180" />
+  </a>
+  <a href="https://github.com/luiz-matoso">
+    <img style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-matoso&layout=compact&theme=dark&hide_border=true" height="180" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning *React, DevOps, microservices**
+<hr>
 
+<h3 align="center">Technologies</h3>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+  
+  <!-- Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring" />
+  
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+  
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
+  
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap" />
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+  
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+  
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luizmatoso" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luizmatoso"/></a>
-<a href="mailto:luizhmatoso1340@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="luizmatoso"/></a>
-</p>
-
-<h3 align="left">Skills:</h3>
-
-<p align="left"> 
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> <br>
-  <a href="#"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luiz-matoso&bg_color=1c1c1c&color=ffffff&line=9effa9&point=94ffc2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<h3 align="center">Contact Me</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <!-- Gmail -->
+  <a href="mailto:luizhmatoso1340@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" title="Gmail" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/luizmatoso/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" title="LinkedIn" />
+  </a>
+</div>
