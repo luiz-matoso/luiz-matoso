@@ -17,6 +17,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">Skills & Tools ⚡</h3>
 
 ###
@@ -87,8 +89,6 @@
 
 <br clear="both">
 
-<p align="center">p</p>
-
 ###
 
 <h3 align="center">Contact / Socials 📫</h3>
@@ -104,6 +104,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
   </a>
 </div>
+
+<br clear="both">
 
 ###
 
