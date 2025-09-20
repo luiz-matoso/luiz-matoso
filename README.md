@@ -17,8 +17,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Skills & Tools ⚡</h3>
 
 ###
@@ -89,6 +87,8 @@
 
 <br clear="both">
 
+<p align="center">p</p>
+
 ###
 
 <h3 align="center">Contact / Socials 📫</h3>
@@ -105,13 +105,11 @@
   </a>
 </div>
 
-<br clear="both">
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz-matoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luiz-matoso&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luiz-matoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=luiz-matoso&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
