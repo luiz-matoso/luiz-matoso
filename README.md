@@ -14,5 +14,5 @@ Artificial Intelligence, system integrations, automation and clean architecture.
 - Improving backend architecture and system design
 
 📫 Reach me:
-- LinkedIn: https://linkedin.com/in/seu-link
+- LinkedIn: https://linkedin.com/in/luizmatoso
 - Email: luizhmatoso1340@gmail.com
