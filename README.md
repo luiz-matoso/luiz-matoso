@@ -1,18 +1,32 @@
-# Hi, I'm Luiz Matoso 😁
+<div align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</div>
 
-Full Stack Developer focused on building clean, modern and scalable web applications.
+<div align="center">
 
-I enjoy turning ideas into reliable digital products, with a strong interest in
-Artificial Intelligence, system integrations, automation and clean architecture.
+##### Full Stack Developer • Computer Science • Data & Artificial Intelligence
 
-🌐 **Website:** https://luizmatoso.dev
+Building software, automation and AI-powered solutions.
 
-**Tech:** TypeScript, React, Node.js, Java, Spring, PostgreSQL, MySQL, Docker, Python, Flask, FastAPI
+##### Check out my portfolio:
 
-**Currently:**
-- Building personal SaaS projects
-- Improving backend architecture and system design
+<a href="SEU_SITE">
+  <img src="https://img.shields.io/badge/luizmatoso.dev-000000?style=for-the-badge&logo=safari&logoColor=white">
+</a>
 
-📫 Reach me:
-- LinkedIn: https://linkedin.com/in/luizmatoso
-- Email: luizhmatoso1340@gmail.com
+##### Connect with me:
+
+<a href="https://www.linkedin.com/in/luizmatoso/">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="32">
+</a>
+<a href="mailto:luizhmatoso1340@gmail.com">
+  <img src="./assets/gmail.svg" alt="LinkedIn" width="32">
+</a>
+
+##### Activity:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz-matoso&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+</div>
