@@ -12,7 +12,7 @@
   Building software, automation and AI-powered solutions.
 </p>
 
-##### Explore my work, projects and experience:
+#### Explore my work, projects and experience:
 
 <a href="https://luizmatoso.dev/">
   <img src="./assets/portfolio.svg" alt="Portfolio" width="340">
