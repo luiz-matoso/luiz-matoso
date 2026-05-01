@@ -27,15 +27,6 @@
   <img src="./assets/gmail.svg" alt="Gmail" width="48">
 </a>
 
-<h3 align="center">Activity:</h3>
-<p align="center" style="margin-top: -22px;">
-  <sub>GitHub contributions over the last 12 months</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/activity.svg" alt="GitHub activity" width="100%">
-</p>
-
 </div>
 
 <p align="right">
