@@ -13,12 +13,14 @@ const WEEK_GAP = CELL_SIZE + CELL_GAP;
 const PADDING_X = 18;
 const PADDING_Y = 18;
 
+const STROKE_COLOR = "#3A3A3A";
+
 const COLORS = {
-  0: "#111111",
-  1: "#333333",
-  2: "#666666",
-  3: "#999999",
-  4: "#ffffff",
+  0: "transparent",
+  1: "#2B2B2B",
+  2: "#4F4F4F",
+  3: "#808080",
+  4: "#D6D6D6",
 };
 
 function escapeXml(value) {
@@ -72,6 +74,7 @@ async function main() {
           const level = day.level ?? 0;
           const count = day.count ?? 0;
           const color = COLORS[level] || COLORS[0];
+          const strokeWidth = level === 0 ? 1 : 0.8;
 
           return `
   <rect
@@ -81,6 +84,8 @@ async function main() {
     height="${CELL_SIZE}"
     rx="2"
     fill="${color}"
+    stroke="${STROKE_COLOR}"
+    stroke-width="${strokeWidth}"
   >
     <title>${escapeXml(day.date)}: ${count} contribution${count === 1 ? "" : "s"}</title>
   </rect>`;

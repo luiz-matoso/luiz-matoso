@@ -28,7 +28,7 @@
 </a>
 
 <h3 align="center">Activity:</h3>
-<p align="center" style="margin-top: -14px;">
+<p align="center" style="margin-top: -22px;">
   <sub>GitHub contributions over the last 12 months</sub>
 </p>
 
