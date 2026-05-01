@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<h4 align="center">
+<h3 align="center">
   Full Stack Developer • Computer Science • Data & Artificial Intelligence
-</h4>
+</h3>
 
 <p align="center" style="margin-top: -8px;">
   Building software, automation and AI-powered solutions.
