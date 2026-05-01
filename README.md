@@ -4,14 +4,18 @@
 
 <div align="center">
 
-#### Full Stack Developer • Computer Science • Data & Artificial Intelligence
+<h4 align="center">
+  Full Stack Developer • Computer Science • Data & Artificial Intelligence
+</h4>
 
-Building software, automation and AI-powered solutions.
+<p align="center" style="margin-top: -8px;">
+  Building software, automation and AI-powered solutions.
+</p>
 
 ##### Explore my work, projects and experience:
 
 <a href="https://luizmatoso.dev/">
-  <img src="./assets/portfolio.svg" alt="Portfolio" width="260">
+  <img src="./assets/portfolio.svg" alt="Portfolio" width="340">
 </a>
 
 ##### Connect with me:
