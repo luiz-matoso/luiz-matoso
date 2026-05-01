@@ -8,7 +8,7 @@
   Full Stack Developer • Computer Science • Data & Artificial Intelligence
 </h3>
 
-<p align="center" style="margin-top: -8px;">
+<p align="center" style="margin-top: -10px;">
   Building software, automation and AI-powered solutions.
 </p>
 
@@ -18,7 +18,7 @@
   <img src="./assets/portfolio.svg" alt="Portfolio" width="340">
 </a>
 
-##### Connect with me:
+#### Connect with me:
 
 <a href="https://www.linkedin.com/in/luizmatoso/" target="_blank">
   <img src="./assets/linkedin.svg" alt="LinkedIn" width="48">
@@ -26,6 +26,15 @@
 <a href="mailto:luizhmatoso1340@gmail.com">
   <img src="./assets/gmail.svg" alt="Gmail" width="48">
 </a>
+
+<h3 align="center">Activity:</h3>
+<p align="center" style="margin-top: -14px;">
+  <sub>GitHub contributions over the last 12 months</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/activity.svg" alt="GitHub activity" width="100%">
+</p>
 
 </div>
 
