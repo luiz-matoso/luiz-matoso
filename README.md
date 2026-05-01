@@ -21,10 +21,10 @@
 ##### Connect with me:
 
 <a href="https://www.linkedin.com/in/luizmatoso/">
-  <img src="./assets/linkedin.svg" alt="LinkedIn" width="52">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="48">
 </a>
 <a href="mailto:luizhmatoso1340@gmail.com">
-  <img src="./assets/gmail.svg" alt="Gmail" width="52">
+  <img src="./assets/gmail.svg" alt="Gmail" width="48">
 </a>
 
 </div>
